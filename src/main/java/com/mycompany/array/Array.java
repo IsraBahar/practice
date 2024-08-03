@@ -26,4 +26,8 @@ public class Array {
         
     
 }
+     for(int i=0; i<Numbers.length; i++){
+            System.out.println();
+        for(int j=0; j<Numbers[i].length;j++){
+            System.out.print(Numbers[i][j] +"");
 } 
