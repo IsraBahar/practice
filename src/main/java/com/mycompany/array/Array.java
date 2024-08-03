@@ -21,7 +21,9 @@ public class Array {
         for(int j=0; j<Numbers[i].length;j++){
             System.out.print(Numbers[i][j] +"");
     }
-        }
+        }            System.out.print(Numbers[i][j] +"");
+
+        
     
 }
 } 
